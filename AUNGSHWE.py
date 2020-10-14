@@ -57,8 +57,8 @@ logo = """
 \033[0;39mMb.     .dM M  M MMMM  MMMM M  MMMMM  MM Mb       dM 
 \033[0;39mMMMMMMMMMMM MMMM MMMMMMMMMM MMMMMMMMMMMM MMMMMMMMMMM
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mSithuAungshwe\033[0;31m║
-\033[0;39m║\033[1;33m* \033[1;33mFacebook  \033[1;33m : \033[1;33m\033[4mSithuAungshwe\033[0m \033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mSithuaungshwE\033[0;31m║
+\033[0;39m║\033[1;33m* \033[1;33mFacebook  \033[1;33m : \033[1;33m\033[4mSithuaungshwE\033[0m \033[0;31m║
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
  
 def tik():
@@ -78,7 +78,7 @@ vuln = "\033[32mVuln"
  
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mMR SHUBHAM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : +919485875345\x1b[1;96m  
+print  """\x1b[0;31m [¤] \x1b[0;31mMR 3L@6K5O4L\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : +959402536227\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : Youth Hacker\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mTOOLS BY Sithu\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : Youth Hacker\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
